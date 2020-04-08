@@ -1,5 +1,7 @@
 ## Implementation of Collective Learning-GNN in PyTorch
 
+This is the code for [A Collective Learning Framework to Boost GNN Expressiveness](https://arxiv.org/abs/2003.12169)
+
 Author: Mengyue Hang
 
 ### Requirements:
